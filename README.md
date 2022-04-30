@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KeanuKapank
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Software Development on university
+- 🌱 I’m in my first year, studying Software Development at Nelson Mandela Univercity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
