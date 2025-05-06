@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KeanuKapank
 - 👀 I’m interested in Software Development
-- 🌱 I’m in my Third (Final) year, studying Software Development at Nelson Mandela Univercity
+- 🌱 I’m in Graduate Software Developer at BET Software
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
